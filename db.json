@@ -1,0 +1,95 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "name": "Zafe",
+      "phone": "777867740",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "lastSeen": "en ligne",
+      "messages": [
+        {
+          "id": 1,
+          "text": "Salut ! Comment ça va ?",
+          "time": "10:30",
+          "sent": false,
+          "read": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Abdallah",
+      "phone": "778123456",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "lastSeen": "il y a 5 min",
+      "messages": [
+        {
+          "id": 1,
+          "text": "Hey ! Ça va bien et toi ?",
+          "time": "10:32",
+          "sent": false,
+          "read": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ousmane Marra",
+      "phone": "776543210",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "lastSeen": "il y a 1h",
+      "messages": []
+    },
+    {
+      "id": 4,
+      "name": "Maman Dié ODC",
+      "phone": "775555555",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "lastSeen": "il y a 2h",
+      "messages": []
+    },
+    {
+      "id": 5,
+      "name": "Zeynabe Ba",
+      "phone": "774444444",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "lastSeen": "hier",
+      "messages": []
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Zafe",
+      "phone": "777867740",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "name": "Abdallah",
+      "phone": "778123456",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "name": "Ousmane Marra",
+      "phone": "776543210",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 4,
+      "name": "Maman Dié ODC",
+      "phone": "775555555",
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 5,
+      "name": "Zeynabe Ba",
+      "phone": "774444444",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    }
+  ],
+  "notifications": [],
+  "calls": [],
+  "status": []
+}
